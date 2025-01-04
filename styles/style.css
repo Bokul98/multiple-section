@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+h3{
+    text-align: center;
+    color: rgb(255, 146, 68);
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 .spann{
+    text-decoration: line-through;
+}
